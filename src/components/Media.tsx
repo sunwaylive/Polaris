@@ -46,7 +46,7 @@ export default function Media() {
       </div>
 
       <div className=" text-center">
-        打赏地址☕️: 0xcb64546921145fe3fa1316d08e4af5b6b60d3945
+        打赏地址☕️: 0xfBC2618b5BC43e7B8C407Ee81a828D05C649080e
       </div>
     </div>
   );
